@@ -44,8 +44,8 @@
   "slider_in_details": true,
   
   
-  "clicks_to_show_inter": 2,
-  "native_rate": 2,
+  "clicks_to_show_inter": 1,
+  "native_rate": 1,
   
   
   "show_rate_us_in_list": true,
